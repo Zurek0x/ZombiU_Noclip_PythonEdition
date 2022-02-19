@@ -1,0 +1,36 @@
+Version; 0.1
+Free_Cam_Ver0.1
+
+!~README~!
+[THIS IS A ALPHA RELEASE OF THE SCRIPT, I KNOW THERE IS ERRORS AND BUGS]
+[THESE BUGS WILL BE PATCHED SOON]
+
++ REQUIREMENTS +
+ - Cheat Engine
+ - Python 3x [For Source Copy]
+ - Nasm Assembly Compiler [For Dev Use]
+
+- HOW TO RUN -
+[Enabling]
+To enable script do as following.
+1. Open "Fly_Script.ct" File with Cheat Engine
+2. Click on computer/monitor icon on top left
+3. Select on the ZOMBI Process (Usually Found As 'XXXXXX-ZOMBI')
+4. Click OK
+5. When it asks to Keep Current Address list/code list press 'Yes'
+6. Enable scripts in the following order
+[Enable 1]
+[Enable 2]
+[Enable 3]
+
+(On Source Release)
+1. Install all modules from "run.py" file (FOUND IN SOURCE CODE UNDER COMMENTED SECTION)
+2. Run the "Run.py" file found in FreeCam Folder
+
+- Then Follow Instructions On Console Window -
+
+[SEMI-FIX FOR SLOWDOWN]
+Until we actually properly fix the slowdown of the camera you will need to see if your value
+of the X/Y/Z is in the - or + example [-2] or [2] If it is close to the value of [0] or [0] Switch
+Add or remove the '-' If the value is close to 0 but the value is in the + then add '-' to the start of the value
+if it is close to 0 but it has a '-' at the start then remove the '-'
