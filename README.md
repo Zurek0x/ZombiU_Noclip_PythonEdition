@@ -21,14 +21,14 @@ This is a fly-hack for the game Zombi/U, It is not actually a "Fly Hack" But it 
 1. Click the green button on the top right that says 'Code'
 2. Click 'Download Zip'
 3. Done
+```
 
+```
 [Linux]
 (Requires The Git Module)
 1. Enter command ' git clone https://github.com/PackedUP32/ZombiU_Zombi_FlyHack-Noclip_BETA.git '
 2. Done
-```
 
-```
 (How to install Git)
 [Ubuntu]
 1. Enter command ' sudo apt-get install git '
