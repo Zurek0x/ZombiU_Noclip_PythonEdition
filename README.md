@@ -40,6 +40,9 @@ To enable script do as following.
 [Enable 1]
 [Enable 2]
 [Enable 3]
+7. Open the folder [ Windows.Compiled ]
+8. Run the file [ FlyHack.bat ] or open the folder [ __data.int__ ] and run the file [ run.exe ]
+9. Follow instructions on program
 
 (On Source Release)
 1. Install all modules from "run.py" file (FOUND IN SOURCE CODE UNDER COMMENTED SECTION)
