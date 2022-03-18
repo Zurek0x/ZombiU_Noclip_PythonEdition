@@ -25,9 +25,8 @@ This is a fly-hack for the game Zombi/U, It is not actually a "Fly Hack" But it 
 > Version 1.0 [Full Release To Github]
 > * Added project to github
 
-```
-
 # Usage (Windows 7/8/8.1/10/11)
+```
 [Enabling]
 To enable script do as following.
 1. Open "Fly_Script.ct" File with Cheat Engine
@@ -40,7 +39,6 @@ To enable script do as following.
 [Enable 2]
 [Enable 3]
 
-# Usage / Source / (Linux/Mac/Other)
 (On Source Release)
 1. Install all modules from "run.py" file (FOUND IN SOURCE CODE UNDER COMMENTED SECTION)
 2. Run the "Run.py" file found in FreeCam Folder
