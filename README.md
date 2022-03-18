@@ -1,6 +1,6 @@
 # ZombiU_Zombi_FlyHack-Noclip_BETA
 This is a fly-hack for the game Zombi/U, It is not actually a "Fly Hack" But it changes your characters X/Y/Z Cords, It is currently still a work in progress and is a bit tricky to get use too.
-![alt text](https://raw.githubusercontent.com/Zurek0x/Ready_Or_Not_Better-Presence/main/%7Bmedia%7D/logo.png)
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Zombi_FlyHack-Noclip_BETA/main/%7Bmedia%7D/header.jpg)
 # NOTICE
  - THIS IS CURRENTLY VERY BUGGY (WILL FIX) - - LACK OF FEATURES (WILL FIX) - - SPEED DOES CHANGE BASED ON AXIS - (CURRENTLY TRYING TO FIX) -
 
@@ -14,28 +14,7 @@ This is a fly-hack for the game Zombi/U, It is not actually a "Fly Hack" But it 
  - Python 3x [For Source Code]
  - Nasm Assembly Compiler [For Source Code]
 ```
-
-# How To Download
-```
-[Windows]
-1. Click the green button on the top right that says 'Code'
-2. Click 'Download Zip'
-3. Done
-```
-
-```
-[Linux]
-(Requires The Git Module)
-1. Enter command ' git clone https://github.com/PackedUP32/ZombiU_Zombi_FlyHack-Noclip_BETA.git '
-2. Done
-
-(How to install Git)
-[Ubuntu]
-1. Enter command ' sudo apt-get install git '
-
-[Other]
-1. Dunno
-```
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Zombi_FlyHack-Noclip_BETA/main/%7Bmedia%7D/py.jpg)
 
 # Usage (Windows 7/8/8.1/10/11)
 [Enabling]
@@ -55,7 +34,7 @@ To enable script do as following.
 1. Install all modules from "run.py" file (FOUND IN SOURCE CODE UNDER COMMENTED SECTION)
 2. Run the "Run.py" file found in FreeCam Folder
 ```
-
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Zombi_FlyHack-Noclip_BETA/main/%7Bmedia%7D/ce.jpg)
 # Semi-Fix For Slowdown Bug
 ```
 [SEMI-FIX FOR SLOWDOWN]
