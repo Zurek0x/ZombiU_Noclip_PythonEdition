@@ -1,8 +1,10 @@
 # ZombiU_Zombi_FlyHack-Noclip_BETA
 This is a fly-hack for the game Zombi/U, It is not actually a "Fly Hack" But it changes your characters X/Y/Z Cords, It is currently still a work in progress and is a bit tricky to get use too.
 ![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Zombi_FlyHack-Noclip_BETA/main/%7Bmedia%7D/header.jpg)
-# NOTICE
- - THIS IS CURRENTLY VERY BUGGY (WILL FIX) - - LACK OF FEATURES (WILL FIX) - - SPEED DOES CHANGE BASED ON AXIS - (CURRENTLY TRYING TO FIX) -
+# NOTICE | THIS IS CURRENTLY VERY BUGGY (WILL FIX)
+- LACK OF FEATURES (WILL FIX)
+- SPEED DOES CHANGE BASED ON AXIS
+- (CURRENTLY TRYING TO FIX)
 
 # Requirements
 ```
