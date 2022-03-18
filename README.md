@@ -17,6 +17,14 @@ This is a fly-hack for the game Zombi/U, It is not actually a "Fly Hack" But it 
  - Nasm Assembly Compiler [For Source Code]
 ```
 ![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Zombi_FlyHack-Noclip_BETA/main/%7Bmedia%7D/py.jpg)
+
+# Update-log
+> Version 1.1 [Non-File-Update]
+> * Updated (readme.md)
+>
+> Version 1.0 [Full Release To Github]
+> * Added project to github
+
 ```
 
 # Usage (Windows 7/8/8.1/10/11)
