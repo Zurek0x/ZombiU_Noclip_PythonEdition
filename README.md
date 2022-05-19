@@ -1,6 +1,6 @@
-# Dropped Project
-This project has been dropped OFFICIALLY since April 1st 2022.
-This projects License will still be valid until Janurary 1st 2023, Check the license for forks of the project and updates.
+# This Project has been moved and updated to use C++ and Assembly
+You may find the new project below
+https://github.com/Zurek0x/ZombiU_Noclip
 
 # ZombiU_Zombi_FlyHack-Noclip_BETA
 This is a fly-hack for the game Zombi/U, It is not actually a "Fly Hack" But it changes your characters X/Y/Z Cords, It is currently still a work in progress and is a bit tricky to get use too.
