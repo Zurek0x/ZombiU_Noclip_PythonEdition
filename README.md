@@ -1,11 +1,9 @@
 # This Project has been moved and updated to use C++ and Assembly
 You may find the new project here >> https://github.com/Zurek0x/ZombiU_Noclip
 
-# This Project has been moved and updated to use C++ and Assembly
-You may find the new project here >> https://github.com/Zurek0x/ZombiU_Noclip
-
-# This Project has been moved and updated to use C++ and Assembly
-You may find the new project here >> https://github.com/Zurek0x/ZombiU_Noclip
+# Updates
+This project will no longer be recieving updates as of Feb 16th 2022, However the project has been moved over to a more updated C++ Version of the program,
+You can find this version here >> https://github.com/Zurek0x/ZombiU_Noclip , If you would like to update the python version then I give everyone the RIGHTS to make private commits to the source code, The license for this program will expire ( Janurary 1st 2023 / Or until renewed). We thank everyone for using our program but we have decided to go for a Faster and more Portable programming language and source.
 
 # ZombiU_Zombi_FlyHack-Noclip_BETA
 This is a fly-hack for the game Zombi/U, It is not actually a "Fly Hack" But it changes your characters X/Y/Z Cords, It is currently still a work in progress and is a bit tricky to get use too.
