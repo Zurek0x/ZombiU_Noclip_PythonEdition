@@ -26,6 +26,11 @@ This is a fly-hack for the game Zombi/U, It is not actually a "Fly Hack" But it 
 ![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Zombi_FlyHack-Noclip_BETA/main/%7Bmedia%7D/py.jpg)
 
 # Update-log
+> Version 0.0 [Non-File-Update]
+> * Updated (readme.md)
+> * Last Update!
+> * Project has officially been dropped for Python Edition
+> 
 > Version 1.1 [Non-File-Update]
 > * Updated (readme.md)
 >
